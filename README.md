@@ -4,3 +4,4 @@
 2. Multidimensional Arrays
 3. Sets and Maps Advanced
 4. Streams, Files and Directories
+5. Functional Programming
