@@ -6,3 +6,4 @@
 4. Streams, Files and Directories
 5. Functional Programming
 6. Defining classes
+7. Generics
