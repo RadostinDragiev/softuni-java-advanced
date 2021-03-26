@@ -7,3 +7,4 @@
 5. Functional Programming
 6. Defining classes
 7. Generics
+8. Iterators and Comparators
